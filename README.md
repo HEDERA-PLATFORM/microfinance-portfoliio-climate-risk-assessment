@@ -4,6 +4,6 @@ Modeling the climate risk assessment at portfolio level for microfinance institu
 
 ### About
 
-Author: Alfonso Caiazzo ([HEDERA Sustainable Solutions](https://hedera.online)
+Author: Alfonso Caiazzo ([HEDERA Sustainable Solutions](https://hedera.online))
 
 Cite as: HEDERA Sustainable Solution (2024) - "Modeling Climate Risk Assessment at Portfolio Level for Microfinance Institutions", Jupyter Notebook
